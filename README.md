@@ -20,3 +20,13 @@ We clean the project so as not to let elements that will not be used later on li
 - Hierarchy between components (Parent/Child)
 - Components can have child that are components
 - How to integrate Javascript in the middle of your JSX
+
+### Styling components
+
+- How to integrate CSS into your React application
+- Differences between *class* and *className*
+- "Key" property of components
+- CSS naming standard
+- Handling name conflict
+- Module entry point
+- Project organization

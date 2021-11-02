@@ -1,14 +1,16 @@
 import React, { Component } from 'react';
 import NoteList from './components/NoteList';
 import RegisterForm from './components/RegisterForm';
+import "./assets/App.css";
+import './assets/index.css';
 
 class App extends Component {
   render() {
     return (
-      <div>
+      <section className="content">
         <RegisterForm/>
         <NoteList/>
-      </div>
+      </section>
     );
   }
 }
