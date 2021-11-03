@@ -10,12 +10,12 @@
 
 ### Create the project
 
-How to prepare the environment installing Node.js and NPX so we can create the application via *Create-React-App*.
+How to prepare the environment installing Node.js and NPX so we can create the application via **Create-React-App**.
 We clean the project so as not to let elements that will not be used later on litter our hierarchy.
 
 ### Componentizing the system
 
-- How can we create *class components*
+- How can we create **class components**
 - Understanding how JSX renders objects
 - Hierarchy between components (Parent/Child)
 - Components can have child that are components
@@ -24,9 +24,16 @@ We clean the project so as not to let elements that will not be used later on li
 ### Styling components
 
 - How to integrate CSS into your React application
-- Differences between *class* and *className*
+- Differences between **class** and **className**
 - "Key" property of components
 - CSS naming standard
 - Handling name conflict
 - Module entry point
 - Project organization
+
+### Dealing with events and properties
+
+- How JS **this** is dynamic and how to handle it
+- References to functions and dependency injection
+- Associating references through **bind**
+- Passing properties to child elements
