@@ -37,3 +37,11 @@ We clean the project so as not to let elements that will not be used later on li
 - References to functions and dependency injection
 - Associating references through **bind**
 - Passing properties to child elements
+
+### Controlling state and rendering
+
+- Thinking about transmitting information between objects
+- System update flow
+- What is **state** for?
+- How to securely assign the **state**
+- Updating the screen view dynamically

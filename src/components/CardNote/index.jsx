@@ -6,9 +6,9 @@ class CardNote extends Component {
         return (
             <section className="card-note">
                 <header className="card-note_header">
-                    <h3 className="card-note_title">Tittle</h3>
+                    <h3 className="card-note_title">{this.props.title}</h3>
                 </header>
-                <p className="card-note_text">Enter your note</p>
+                <p className="card-note_text">{this.props.text}</p>
             </section>
         );
     }
